@@ -1,0 +1,3 @@
+Guatemala,Escuintla,22
+San Marcos,Jutiapa, 33
+San Lucas,La Antigua, 15
